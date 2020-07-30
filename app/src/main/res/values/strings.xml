@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mercado Pago</string>
+    <string name="main_busqueda_producto">Search by name</string>
+    <string name="main_busquedaa_category">Search by category</string>
+    <string name="tv_no_products">Didnt you search? What are you waiting for?</string>
+    <string name="buscando_productos">Searching %1$s</string>
+    <string name="product_pic">Pictures</string>
+    <string name="error_inesperado">Error inesperado</string>
+    <string name="sin_resultados">No se encontraron resultados para</string>
+    <string name="info_vendedor">Información Domicilio Vendedor</string>
+    <string name="provincia">Provincia:</string>
+    <string name="ciudad">Ciudad:</string>
+    <string name="cuotas_disponibles">Cuotas disponibles</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="monto">Monto:</string>
+    <string name="ficha_tecnica">Ficha técnica</string>
+    <string name="sin_conexion">Verifique su conexión a internet.</string>
+</resources>
